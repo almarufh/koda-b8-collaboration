@@ -23,6 +23,8 @@ const {
   // fahrenheitToRankine,
 } = require("./utils/fahrenheit.js");
 
+const {tanya, tutup} = require("./utils/inputData.js")
+
 const inputSuhu = 100;
 
 // TODO: Do user input and calculation.
